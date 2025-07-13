@@ -26,8 +26,4 @@ __pycache__/
 *.pyc
 .DS_Storeindex/
 
-# Archivos temporales o del sistema
-__pycache__/
-*.pyc
-.DS_Store
 
