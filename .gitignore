@@ -1,0 +1,33 @@
+
+########################################
+# Archivos sensibles
+########################################
+.env
+
+########################################
+# Entorno virtual
+########################################
+venv/
+
+########################################
+# Checkpoints de notebooks de Jupyter
+########################################
+**/.ipynb_checkpoints/
+
+########################################
+# Índice FAISS (generado automáticamente)
+########################################
+faiss_index/
+
+########################################
+# Archivos temporales o del sistema
+########################################
+__pycache__/
+*.pyc
+.DS_Storeindex/
+
+# Archivos temporales o del sistema
+__pycache__/
+*.pyc
+.DS_Store
+
